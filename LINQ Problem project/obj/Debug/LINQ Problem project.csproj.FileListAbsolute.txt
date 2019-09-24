@@ -1,0 +1,7 @@
+C:\Users\jrack\Desktop\Projects\LINQ Problem project\LINQ Problem project\LINQ Problem project\bin\Debug\LINQ Problem project.exe.config
+C:\Users\jrack\Desktop\Projects\LINQ Problem project\LINQ Problem project\LINQ Problem project\bin\Debug\LINQ Problem project.exe
+C:\Users\jrack\Desktop\Projects\LINQ Problem project\LINQ Problem project\LINQ Problem project\bin\Debug\LINQ Problem project.pdb
+C:\Users\jrack\Desktop\Projects\LINQ Problem project\LINQ Problem project\LINQ Problem project\obj\Debug\LINQ Problem project.csprojAssemblyReference.cache
+C:\Users\jrack\Desktop\Projects\LINQ Problem project\LINQ Problem project\LINQ Problem project\obj\Debug\LINQ Problem project.csproj.CoreCompileInputs.cache
+C:\Users\jrack\Desktop\Projects\LINQ Problem project\LINQ Problem project\LINQ Problem project\obj\Debug\LINQ Problem project.exe
+C:\Users\jrack\Desktop\Projects\LINQ Problem project\LINQ Problem project\LINQ Problem project\obj\Debug\LINQ Problem project.pdb
